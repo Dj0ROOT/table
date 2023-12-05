@@ -1,0 +1,42 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 100vh;
+}
+
+
+
+.row1{
+    background: #26264F;
+
+}
+
+.deliverbtn{
+    border-radius: 22px;
+    background: #EBF9F1;
+    color: #1F9254;
+    border: none;
+}
+.processbtn{
+    border-radius: 22px;
+    background: #FEF2E5;
+    color: #CD6200;
+    border: none;
+    
+}
+.cancel{
+    border-radius: 22px;
+    background: #FBE7E8;
+    color: #A30D11;
+    border: none;
+}
+
+table{
+    background: #1D1E42;
+}
+tr{
+    color: white;
+}
+
